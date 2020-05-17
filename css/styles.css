@@ -42,7 +42,7 @@ hr {
  
   }
 .middle-container{
-	margin:100px
+	margin:100px;
 	font-weight:bolder;
 }
 .bottom-container {
@@ -53,7 +53,7 @@ hr {
 }
 
 .top-pic {
-   position:absolute;
+   position:relative;
    left:10px;
 }
 
