@@ -95,7 +95,7 @@ hr {
 
 .pro-img {
   width: 25%;
-  border-radius: 100%;
+  border-radius: 8px;
 }
 
 .html-img {
