@@ -53,7 +53,7 @@ hr {
 }
 
 .top-pic {
-   position:relative;
+   position:absolute;
    left:10px;
 }
 
